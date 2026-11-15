@@ -1,4 +1,4 @@
-# 📈 Moving Average Crossover Backtester
+# Moving Average Crossover Backtester
 
 A fast, lightweight C++ backtester that simulates a Simple Moving Average (SMA) crossover trading strategy on stock price data.
 
@@ -13,7 +13,7 @@ A fast, lightweight C++ backtester that simulates a Simple Moving Average (SMA) 
 
 ---
 
-## 🚀 Quickstart
+##  Quickstart
 
 ### 1. Compile
 ```bash
@@ -31,7 +31,7 @@ g++ -std=c++17 -O2 backtest.cpp -o backtest
 
 ---
 
-## 📊 Results
+##  Results
 
 ### Trade Execution & Summary
 Outputs every trade signal (date, price, shares) and final performance metrics:
